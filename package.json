@@ -1,0 +1,11 @@
+{
+  "name": "fis3-postpackager-scripterror",
+  "version": "1.0.0",
+  "description": "handler script load error",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "author": "",
+  "license": "MIT"
+}

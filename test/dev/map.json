@@ -1,0 +1,27 @@
+{
+    "res": {
+        "pages/index/main.js": {
+            "uri": "/pages/index/main.js",
+            "type": "js",
+            "deps": [
+                "pages/index/main.css"
+            ]
+        },
+        "pages/index/main.css": {
+            "uri": "/pages/index/main.css",
+            "type": "css",
+            "deps": [
+                "baba"
+            ]
+        },
+        "pages/index/async.js": {
+            "uri": "/pages/index/async.js",
+            "type": "js"
+        },
+        "pages/index/test.css": {
+            "uri": "/pages/index/test.css",
+            "type": "css"
+        }
+    },
+    "pkg": {}
+}
